@@ -1,1 +1,1 @@
-# project---Diabetes-prediction-Classifier-
+# project-Diabetes-prediction_Classifier
