@@ -1,6 +1,6 @@
 # project-Diabetes-prediction_Classifier(SVM)
 
-In this source code, one can predict whether the next person has diabetes or not on the basis of following parameters:
+In this source code, one can predict whether the next person has diabetes or not on the basis of following parameters:<br>
 Pregnancies<br>	
 Glucose	<br>
 BloodPressure	<br>	
